@@ -1,6 +1,6 @@
 ### Copyright
 
-2020 Git training. Adding more text for rebasing example
+2020 Git training. Adding more text for rebasing example, then more features from the feature branch 2
 
 ## Hot to contribute
 
