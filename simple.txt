@@ -1,3 +1,3 @@
 add-copryright in master branch
 
-adding changes before rebasing conflicts
+adding some more changes from master branch
