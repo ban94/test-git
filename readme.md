@@ -6,4 +6,4 @@ All Rights reserved
 
 ## Hot to contribute
 
-Some text added to test merging
+Some text added to emergency fix after stashing merging
