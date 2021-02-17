@@ -11,7 +11,7 @@ adding some more textvadding some more textvvvadding some more text
 adding some more textadding some more text
 adding some more text
 
-adding more more more
+adding editing on github for rebasing from github to local repository example
 
 Title change branch
 
